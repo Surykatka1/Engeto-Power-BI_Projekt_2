@@ -1,3 +1,5 @@
+discord name kata._16527
+
 # Engeto-Power-BI_Projekt_2
 V rámci druhého projektu je cílem vizualizovat  mnou zvolený dataset podle níže zadaných kritérií:
 
